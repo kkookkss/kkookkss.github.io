@@ -1,26 +1,29 @@
 module.exports = {
-  title: `zoomkoding.com`,
-  description: `줌코딩의 개발일기`,
-  language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://www.zoomkoding.com`,
-  ogImage: `/og-image.png`, // Path to your in the 'static' folder
+  title: `kkookkss.github.io`, // zoomkoding.com
+  description: `kkookkss devlog`, // 줌코딩의 개발일기
+  language: `ko`, // 'ko', 'en' (영어 버전도 지원하고 있습니다.)
+  siteUrl: `https://kkookkss.github.io`, // https://www.zoomkoding.com
+  ogImage: `/og-image.png`, // 공유할 때 보이는 미리보기 이미지로 '/static' 하위에 넣고 싶은 이미지를 추가하시면 됩니다.
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `kkookkss/kkookkss.github.io`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `정진혁`,
+    name: `윤명국`,
     bio: {
-      role: `개발자`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      role: `일하는 사람`,
+      description: [
+        '함께 문제를 해결하고 성장하며',
+        '직접 부딪히며',
+        '새로운 시도를 즐기며'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/zoomKoding`,
+      github: `https://github.com/kkookkss`, // `https://github.com/zoomKoding`,
       linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: ``, // `zoomkoding@gmail.com`,
+      email: `pre0919@gmail.com`, // `zoomkoding@gmail.com`,
     },
   },
 
