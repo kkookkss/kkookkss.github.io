@@ -30,14 +30,16 @@
     "gatsby-theme-material-ui": "^5.1.0",
     "gatsby-transformer-remark": "^5.9.1",
     "gatsby-transformer-sharp": "^4.9.0",
+    "pify": "^6.0.0",
     "prismjs": "^1.24.1",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-rotating-text": "^1.4.1",
     "sass": "^1.43.4",
     "typeface-montserrat": "^1.1.13"
   },
   "devDependencies": {
+    "docz": "^2.4.0",
     "gh-pages": "^3.2.3",
     "prettier": "2.2.1"
   },
