@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `일하는 사람`,
       description: [
-        '함께 문제를 해결하고 성장하며',
+        '함께 성장하며',
         '직접 부딪히며',
         '새로운 시도를 즐기며'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
